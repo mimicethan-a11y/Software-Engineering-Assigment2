@@ -37,3 +37,13 @@ python expense_visual.py
 python expense_visual.py
 ```
 程式會讀取 expenses.csv 並顯示依照「類別」統計的圓餅圖。
+
+## 執行成果截圖 (Screenshots)
+
+## 檔案結構 (Project Structure)
+.
+├── expenses.csv        # 儲存消費資料 (由程式自動生成)
+├── expense_input.py    # 輸入功能主程式
+├── expense_visual.py   # 畫圖功能主程式
+├── requirements.txt    # 依賴套件清單
+└── README.md           # 專案說明文件
