@@ -16,3 +16,24 @@
 ### 1. 複製專案 (Clone Repository)
 ```bash
 git clone https://github.com/mimicethan-a11y/Software-Engineering-Assigment2.git
+```
+### 2. 安裝必要套件 (Install Requirements)
+本專案需要安裝 matplotlib 繪圖套件。請執行以下指令：
+```bash
+pip install -r requirements.txt
+```
+### 3. 執行步驟 (Usage)
+步驟 1：輸入消費資料
+執行 Member A 的程式來新增記帳資料：
+```bash
+python expense_visual.py
+```
+依照提示輸入 日期、金額、類別 (建議使用英文，如 Food, Transport) 與 備註。
+資料會自動儲存至 expenses.csv。
+
+步驟 2：產生圓餅圖
+執行 Member B 的程式來查看統計圖表：
+```bash
+python expense_visual.py
+```
+程式會讀取 expenses.csv 並顯示依照「類別」統計的圓餅圖。
