@@ -1,4 +1,4 @@
-# Software-Engineering-Assigment2
+ # Software-Engineering-Assigment2
 # Expense Tracking Tool (記帳小工具)
 
 ## 📌 專案簡介 (Introduction)
@@ -43,7 +43,11 @@ python expense_visual.py
 ## 檔案結構 (Project Structure)
 .
 ├── expenses.csv        # 儲存消費資料 (由程式自動生成)
+
 ├── expense_input.py    # 輸入功能主程式
+
 ├── expense_visual.py   # 畫圖功能主程式
+
 ├── requirements.txt    # 依賴套件清單
+
 └── README.md           # 專案說明文件
