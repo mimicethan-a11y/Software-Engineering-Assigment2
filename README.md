@@ -41,7 +41,7 @@ python expense_visual.py
 ## 執行成果截圖 (Screenshots)
 
 ## 檔案結構 (Project Structure)
-.
+
 ├── expenses.csv        # 儲存消費資料 (由程式自動生成)
 
 ├── expense_input.py    # 輸入功能主程式
