@@ -39,6 +39,7 @@ python expense_visual.py
 程式會讀取 expenses.csv 並顯示依照「類別」統計的圓餅圖。
 
 ## 執行成果截圖 (Screenshots)
+![alt text](pie_chart_sample.png)
 
 ## 檔案結構 (Project Structure)
 
